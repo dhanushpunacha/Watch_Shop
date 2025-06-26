@@ -1,4 +1,5 @@
 Overview
+
 A luxury watch shop web application developed using Python and Django.
 The platform allows users to browse a curated selection of watches and filter them by brand and price. 
 Admin users can manage the catalog through CRUD operations. The website is designed with a modern, responsive interface using Bootstrap.

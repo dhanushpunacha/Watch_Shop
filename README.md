@@ -11,6 +11,7 @@ Features
 * Detailed Watch Descriptions: View detailed information about each watch, including model, description, and price.
 
 * Technologies
+  
 Backend: Python, Django
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Hosting: PythonAnywhere
